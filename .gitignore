@@ -105,3 +105,4 @@ venv.bak/
 
 # ignore the data folder
 ./data/
+data/wait_wait.sql
