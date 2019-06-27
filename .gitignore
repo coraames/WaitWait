@@ -106,3 +106,4 @@ venv.bak/
 # ignore the data folder
 ./data/
 data/wait_wait.sql
+glove.6B/glove.6B.100d.txt
